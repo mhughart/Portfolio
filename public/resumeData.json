@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Michael Hughart",
+    "occupation": "Full Stack Developer",
+    "description": "Web and Application Developer with concentrations within UX/UI Design and JavaScript with React Framework",
+    "image": "IG_Michael.jpg",
+    "bio": "My name is Michael, I'm a Full Stack Developer. Currently I'm working on advancing my career as a React Full stack ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "michael.hughart@rabisudesign.com",
+    "phone": "(804) 814-1620",
+    "address": {
+      "street": "4106 Bremner Blvd",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23228"
+    },
+    "website": "http://www.rabisudesign.com",
+    "resumedownload": "https://www.rabisudesign.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "#",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Phoenix",
+        "degree": "Bachelors of Information Technology in Web Development",
+        "graduated": "March 2016",
+        "description": "Graduated with Honors"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Full Stack Developer",
+        "years": " 2015 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "25%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "25%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "25%"
+      },
+      {
+        "name": "UX / UI Design",
+        "level": "65%"
+      },
+      {
+        "name": "M E R N",
+        "level": "15%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
