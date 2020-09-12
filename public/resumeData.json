@@ -97,43 +97,43 @@
 			{
 				"title": "Slack Clone",
 				"category": "Slack Clone built with (ReactJS / Redux / React Router / Firebase / Material UI)",
-				"image": "",
+				"image": "slack-clone.png",
 				"url": ""
 			},
 			{
 				"title": "WhatsApp Clone",
 				"category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-				"image": "",
+				"image": "whatsapp-clone.png",
 				"url": ""
 			},
 			{
 				"title": "TikTok Clone",
 				"category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-				"image": "",
+				"image": "tiktok-clone.png",
 				"url": ""
 			},
 			{
 				"title": "Facebook Clone",
-				"category": "",
-				"image": "",
+				"category": "Facebook Clone",
+				"image": "facebook-clone.png",
 				"url": ""
 			},
 			{
 				"title": "Airbnb Clone",
-				"category": "",
-				"image": "",
+				"category": "Airbnb Clone",
+				"image": "airbnb-clone.png",
 				"url": ""
 			},
 			{
 				"title": "Netflix Clone",
-				"category": "",
-				"image": "",
+				"category": "Netflix Clone",
+				"image": "netflix-clone.png",
 				"url": ""
 			},
 			{
 				"title": "Amazon Clone",
-				"category": "",
-				"image": "",
+				"category": "Amazon Clone",
+				"image": "amazon-clone.png",
 				"url": ""
 			}
 		]
