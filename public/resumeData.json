@@ -2,9 +2,9 @@
 	"main": {
 		"name": "Michael Hughart",
 		"occupation": "Full Stack Developer",
-		"description": "Web and Application Developer with concentrations within UX/UI Design and JavaScript with React Framework",
+		"description": "Web and Application Developer with the concentration of ReactJS within the JavaScript realm",
 		"image": "IG_Michael.jpg",
-		"bio": "My name is Michael, I'm a Full Stack Developer. Currently I'm working on advancing my career as a React Full stack ",
+		"bio": "My name is Michael, I'm a Full Stack Developer. Currently I'm working on advancing my career to include ReactJS into my Full Stack Development skillset. ",
 		"contactmessage": "Get in touch with me to receive further details",
 		"email": "michael.hughart@rabisudesign.com",
 		"phone": "(804) 814-1620",
@@ -40,7 +40,7 @@
 		]
 	},
 	"resume": {
-		"skillmessage": "",
+		"skillmessage": "When it comes to being a developer, always researching and learning new skills sets you apart from others.",
 		"education": [
 			{
 				"school": "University of Phoenix",
@@ -54,41 +54,33 @@
 				"company": "Freelance",
 				"title": "Full Stack Developer",
 				"years": " 2015 - Present",
-				"description": ""
+				"description": "Freelancing off and on through the years"
 			}
 		],
 		"skills": [
 			{
 				"name": "HTML5",
-				"level": "100%"
+				"level": "75%"
 			},
 			{
 				"name": "CSS3",
-				"level": "95%"
+				"level": "75%"
 			},
 			{
 				"name": "JavaScript",
 				"level": "75%"
 			},
 			{
-				"name": "Git",
-				"level": "25%"
-			},
-			{
-				"name": "NodeJs",
-				"level": "25%"
-			},
-			{
 				"name": "ReactJs",
 				"level": "25%"
 			},
 			{
-				"name": "UX / UI Design",
-				"level": "65%"
+				"name": "Python",
+				"level": "25%"
 			},
 			{
-				"name": "M E R N",
-				"level": "15%"
+				"name": "UX / UI Design (Figma & Adobe XD)",
+				"level": "25%"
 			}
 		]
 	},
@@ -96,9 +88,9 @@
 		"projects": [
 			{
 				"title": "Slack Clone",
-				"category": "COMING SOON: Slack Clone built with (ReactJS / Redux / React Router / Firebase / Material UI)",
+				"category": "Slack Clone built with (ReactJS / Redux / React Router / Firebase / Material UI) : GitHub: https://github.com/mhughart/slack-clone.git",
 				"image": "slack-clone.png",
-				"url": ""
+				"url": " https://slack-clone-323c3.web.app"
 			},
 			{
 				"title": "WhatsApp Clone",
